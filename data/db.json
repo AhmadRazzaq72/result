@@ -1,0 +1,986 @@
+{
+  "meta": {
+    "last_updated": "2026-02-07",
+    "kickoff_date": "2026-06-11T00:00:00Z"
+  },
+  "matches": [
+    {
+      "id": "m1",
+      "home": "Mexico",
+      "away": "TBD",
+      "home_flag": "🇲🇽",
+      "away_flag": "🏳️",
+      "utc_time": "2026-02-05T01:00:00Z",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "group": "A",
+      "score": "3/3"
+    },
+    {
+      "id": "m2",
+      "home": "USA",
+      "away": "TBD",
+      "home_flag": "🇺🇸",
+      "away_flag": "🏳️",
+      "utc_time": "2026-02-05T01:00:00Z",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "group": "A",
+      "score": "0/3"
+    },
+    {
+      "id": "m3",
+      "home": "Canada",
+      "away": "TBD",
+      "home_flag": "🇨🇦",
+      "away_flag": "🏳️",
+      "utc_time": "2026-02-05T01:00:00Z",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "group": "A",
+      "score": "0/3"
+    },
+    {
+      "id": "m4",
+      "home": "Argentina",
+      "away": "TBD",
+      "home_flag": "🇦🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-02-05T01:00:00Z",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "group": "B",
+      "score": "0/3"
+    },
+    {
+      "id": "m5",
+      "home": "Brazil",
+      "away": "TBD",
+      "home_flag": "🇧🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-02-09T20:38:00Z",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "group": "B",
+      "score": null
+    },
+    {
+      "id": "m6",
+      "home": "England",
+      "away": "TBD",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏳️",
+      "utc_time": "2026-02-09T20:17:00Z",
+      "venue": "MetLife Stadium",
+      "city": "New York",
+      "group": "C",
+      "score": null
+    },
+    {
+      "id": "m7",
+      "home": "France",
+      "away": "TBD",
+      "home_flag": "🇫🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-13T18:00:00Z",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "group": "C",
+      "score": null
+    },
+    {
+      "id": "m8",
+      "home": "Germany",
+      "away": "TBD",
+      "home_flag": "🇩🇪",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-13T21:00:00Z",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "group": "D",
+      "score": null
+    },
+    {
+      "id": "m9",
+      "home": "Spain",
+      "away": "TBD",
+      "home_flag": "🇪🇸",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-13T00:00:00Z",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco",
+      "group": "D",
+      "score": null
+    },
+    {
+      "id": "m10",
+      "home": "Portugal",
+      "away": "TBD",
+      "home_flag": "🇵🇹",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-14T18:00:00Z",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "group": "E",
+      "score": null
+    },
+    {
+      "id": "m11",
+      "home": "Netherlands",
+      "away": "TBD",
+      "home_flag": "🇳🇱",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-14T21:00:00Z",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "group": "E",
+      "score": null
+    },
+    {
+      "id": "m12",
+      "home": "Belgium",
+      "away": "TBD",
+      "home_flag": "🇧🇪",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-14T00:00:00Z",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "group": "F",
+      "score": null
+    },
+    {
+      "id": "m13",
+      "home": "Italy",
+      "away": "TBD",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-15T18:00:00Z",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "group": "F",
+      "score": null
+    },
+    {
+      "id": "m14",
+      "home": "Croatia",
+      "away": "TBD",
+      "home_flag": "🇭🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-15T21:00:00Z",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "group": "G",
+      "score": null
+    },
+    {
+      "id": "m15",
+      "home": "Japan",
+      "away": "TBD",
+      "home_flag": "🇯🇵",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-15T00:00:00Z",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "group": "G",
+      "score": null
+    },
+    {
+      "id": "m16",
+      "home": "South Korea",
+      "away": "TBD",
+      "home_flag": "🇰🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-16T18:00:00Z",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "group": "H",
+      "score": null
+    },
+    {
+      "id": "m17",
+      "home": "Mexico",
+      "away": "TBD",
+      "home_flag": "🇲🇽",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-16T21:00:00Z",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "group": "A",
+      "score": null
+    },
+    {
+      "id": "m18",
+      "home": "USA",
+      "away": "TBD",
+      "home_flag": "🇺🇸",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-17T18:00:00Z",
+      "venue": "MetLife Stadium",
+      "city": "New York",
+      "group": "A",
+      "score": null
+    },
+    {
+      "id": "m19",
+      "home": "Canada",
+      "away": "TBD",
+      "home_flag": "🇨🇦",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-17T21:00:00Z",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "group": "A",
+      "score": null
+    },
+    {
+      "id": "m20",
+      "home": "Argentina",
+      "away": "TBD",
+      "home_flag": "🇦🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-17T00:00:00Z",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "group": "B",
+      "score": null
+    },
+    {
+      "id": "m21",
+      "home": "Brazil",
+      "away": "TBD",
+      "home_flag": "🇧🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-18T18:00:00Z",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "group": "B",
+      "score": null
+    },
+    {
+      "id": "m22",
+      "home": "England",
+      "away": "TBD",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-18T21:00:00Z",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "group": "C",
+      "score": null
+    },
+    {
+      "id": "m23",
+      "home": "France",
+      "away": "TBD",
+      "home_flag": "🇫🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-18T00:00:00Z",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "group": "C",
+      "score": null
+    },
+    {
+      "id": "m24",
+      "home": "Germany",
+      "away": "TBD",
+      "home_flag": "🇩🇪",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-19T18:00:00Z",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "group": "D",
+      "score": null
+    },
+    {
+      "id": "m25",
+      "home": "Spain",
+      "away": "TBD",
+      "home_flag": "🇪🇸",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-19T21:00:00Z",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco",
+      "group": "D",
+      "score": null
+    },
+    {
+      "id": "m26",
+      "home": "Portugal",
+      "away": "TBD",
+      "home_flag": "🇵🇹",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-19T00:00:00Z",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "group": "E",
+      "score": null
+    },
+    {
+      "id": "m27",
+      "home": "Netherlands",
+      "away": "TBD",
+      "home_flag": "🇳🇱",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-20T18:00:00Z",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "group": "E",
+      "score": null
+    },
+    {
+      "id": "m28",
+      "home": "Belgium",
+      "away": "TBD",
+      "home_flag": "🇧🇪",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-20T21:00:00Z",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "group": "F",
+      "score": null
+    },
+    {
+      "id": "m29",
+      "home": "Italy",
+      "away": "TBD",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-20T00:00:00Z",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "group": "F",
+      "score": null
+    },
+    {
+      "id": "m30",
+      "home": "Croatia",
+      "away": "TBD",
+      "home_flag": "🇭🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-21T18:00:00Z",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "group": "G",
+      "score": null
+    },
+    {
+      "id": "m31",
+      "home": "Japan",
+      "away": "TBD",
+      "home_flag": "🇯🇵",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-21T21:00:00Z",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "group": "G",
+      "score": null
+    },
+    {
+      "id": "m32",
+      "home": "South Korea",
+      "away": "TBD",
+      "home_flag": "🇰🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-21T00:00:00Z",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "group": "H",
+      "score": null
+    },
+    {
+      "id": "m33",
+      "home": "Mexico",
+      "away": "TBD",
+      "home_flag": "🇲🇽",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-22T18:00:00Z",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "group": "A",
+      "score": null
+    },
+    {
+      "id": "m34",
+      "home": "USA",
+      "away": "TBD",
+      "home_flag": "🇺🇸",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-22T21:00:00Z",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "group": "A",
+      "score": null
+    },
+    {
+      "id": "m35",
+      "home": "Canada",
+      "away": "TBD",
+      "home_flag": "🇨🇦",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-22T00:00:00Z",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "group": "A",
+      "score": null
+    },
+    {
+      "id": "m36",
+      "home": "Argentina",
+      "away": "TBD",
+      "home_flag": "🇦🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-23T18:00:00Z",
+      "venue": "MetLife Stadium",
+      "city": "New York",
+      "group": "B",
+      "score": null
+    },
+    {
+      "id": "m37",
+      "home": "Brazil",
+      "away": "TBD",
+      "home_flag": "🇧🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-23T21:00:00Z",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco",
+      "group": "B",
+      "score": null
+    },
+    {
+      "id": "m38",
+      "home": "England",
+      "away": "TBD",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-23T00:00:00Z",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "group": "C",
+      "score": null
+    },
+    {
+      "id": "m39",
+      "home": "France",
+      "away": "TBD",
+      "home_flag": "🇫🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-24T18:00:00Z",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "group": "C",
+      "score": null
+    },
+    {
+      "id": "m40",
+      "home": "Germany",
+      "away": "TBD",
+      "home_flag": "🇩🇪",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-24T21:00:00Z",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "group": "D",
+      "score": null
+    },
+    {
+      "id": "m41",
+      "home": "Spain",
+      "away": "TBD",
+      "home_flag": "🇪🇸",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-24T00:00:00Z",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "group": "D",
+      "score": null
+    },
+    {
+      "id": "m42",
+      "home": "Portugal",
+      "away": "TBD",
+      "home_flag": "🇵🇹",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-25T18:00:00Z",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "group": "E",
+      "score": null
+    },
+    {
+      "id": "m43",
+      "home": "Netherlands",
+      "away": "TBD",
+      "home_flag": "🇳🇱",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-25T21:00:00Z",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "group": "E",
+      "score": null
+    },
+    {
+      "id": "m44",
+      "home": "Belgium",
+      "away": "TBD",
+      "home_flag": "🇧🇪",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-25T00:00:00Z",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "group": "F",
+      "score": null
+    },
+    {
+      "id": "m45",
+      "home": "Italy",
+      "away": "TBD",
+      "home_flag": "🇮🇹",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-26T18:00:00Z",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "group": "F",
+      "score": null
+    },
+    {
+      "id": "m46",
+      "home": "Croatia",
+      "away": "TBD",
+      "home_flag": "🇭🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-26T21:00:00Z",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "group": "G",
+      "score": null
+    },
+    {
+      "id": "m47",
+      "home": "Japan",
+      "away": "TBD",
+      "home_flag": "🇯🇵",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-26T00:00:00Z",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "group": "G",
+      "score": null
+    },
+    {
+      "id": "m48",
+      "home": "South Korea",
+      "away": "TBD",
+      "home_flag": "🇰🇷",
+      "away_flag": "🏳️",
+      "utc_time": "2026-06-27T18:00:00Z",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "group": "H",
+      "score": null
+    }
+  ],
+  "cities": [
+    {
+      "id": "c1",
+      "name": "New York",
+      "country": "USA",
+      "stadium": "MetLife Stadium",
+      "stadium_image": "stadium_metlife.png",
+      "latitude": 40.8128,
+      "longitude": -74.0742,
+      "hotels": [
+        {
+          "id": "h1",
+          "name": "Hilton Meadowlands",
+          "image": "hotel_hilton.png",
+          "price": "$$$",
+          "distance": "0.3 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        },
+        {
+          "id": "h2",
+          "name": "Marriott Secaucus",
+          "image": "hotel_marriott.png",
+          "price": "$$",
+          "distance": "1.2 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        },
+        {
+          "id": "h3",
+          "name": "Hampton Inn",
+          "image": "hotel_hampton.png",
+          "price": "$",
+          "distance": "2.0 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Los Angeles",
+      "country": "USA",
+      "stadium": "SoFi Stadium",
+      "stadium_image": "stadium_sofi.png",
+      "latitude": 33.9535,
+      "longitude": -118.3392,
+      "hotels": [
+        {
+          "id": "h4",
+          "name": "SoFi Stadium Hotel",
+          "image": "hotel_sofi.png",
+          "price": "$$$",
+          "distance": "0.5 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        },
+        {
+          "id": "h5",
+          "name": "Renaissance LAX",
+          "image": "hotel_renaissance.png",
+          "price": "$$",
+          "distance": "2.0 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "name": "Dallas",
+      "country": "USA",
+      "stadium": "AT&T Stadium",
+      "stadium_image": "stadium_att.png",
+      "latitude": 32.7473,
+      "longitude": -97.0945,
+      "hotels": [
+        {
+          "id": "h6",
+          "name": "Hilton Arlington",
+          "image": "hotel_hilton_arlington.png",
+          "price": "$$",
+          "distance": "0.5 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        },
+        {
+          "id": "h7",
+          "name": "Sheraton Arlington",
+          "image": "hotel_sheraton.png",
+          "price": "$$",
+          "distance": "0.8 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "name": "Miami",
+      "country": "USA",
+      "stadium": "Hard Rock Stadium",
+      "stadium_image": "stadium_hardrock.png",
+      "latitude": 25.958,
+      "longitude": -80.2389,
+      "hotels": [
+        {
+          "id": "h8",
+          "name": "JW Marriott Turnberry",
+          "image": "hotel_jw.png",
+          "price": "$$$",
+          "distance": "3.0 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "name": "Houston",
+      "country": "USA",
+      "stadium": "NRG Stadium",
+      "stadium_image": "stadium_nrg.png",
+      "latitude": 29.6847,
+      "longitude": -95.4107,
+      "hotels": [
+        {
+          "id": "h9",
+          "name": "Hilton Houston",
+          "image": "hotel_hilton_houston.png",
+          "price": "$$",
+          "distance": "1.0 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "name": "Atlanta",
+      "country": "USA",
+      "stadium": "Mercedes-Benz Stadium",
+      "stadium_image": "stadium_mercedes.png",
+      "latitude": 33.7553,
+      "longitude": -84.401,
+      "hotels": [
+        {
+          "id": "h10",
+          "name": "Omni Atlanta",
+          "image": "hotel_omni.png",
+          "price": "$$$",
+          "distance": "0.2 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "name": "Seattle",
+      "country": "USA",
+      "stadium": "Lumen Field",
+      "stadium_image": "stadium_lumen.png",
+      "latitude": 47.5952,
+      "longitude": -122.3316,
+      "hotels": [
+        {
+          "id": "h11",
+          "name": "Hyatt Regency Seattle",
+          "image": "hotel_hyatt.png",
+          "price": "$$",
+          "distance": "0.5 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c8",
+      "name": "San Francisco",
+      "country": "USA",
+      "stadium": "Levi's Stadium",
+      "stadium_image": "stadium_levis.png",
+      "latitude": 37.4033,
+      "longitude": -121.9694,
+      "hotels": [
+        {
+          "id": "h12",
+          "name": "Hilton Santa Clara",
+          "image": "hotel_hilton_sc.png",
+          "price": "$$",
+          "distance": "0.3 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c9",
+      "name": "Philadelphia",
+      "country": "USA",
+      "stadium": "Lincoln Financial Field",
+      "stadium_image": "stadium_lincoln.png",
+      "latitude": 39.9008,
+      "longitude": -75.1675,
+      "hotels": [
+        {
+          "id": "h13",
+          "name": "Holiday Inn Stadium",
+          "image": "hotel_holiday.png",
+          "price": "$",
+          "distance": "0.5 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "name": "Kansas City",
+      "country": "USA",
+      "stadium": "Arrowhead Stadium",
+      "stadium_image": "stadium_arrowhead.png",
+      "latitude": 39.0489,
+      "longitude": -94.484,
+      "hotels": [
+        {
+          "id": "h14",
+          "name": "Drury Inn Stadium",
+          "image": "hotel_drury.png",
+          "price": "$",
+          "distance": "1.0 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c11",
+      "name": "Toronto",
+      "country": "Canada",
+      "stadium": "BMO Field",
+      "stadium_image": "stadium_bmo.png",
+      "latitude": 43.6332,
+      "longitude": -79.4186,
+      "hotels": [
+        {
+          "id": "h15",
+          "name": "Hotel X Toronto",
+          "image": "hotel_x.png",
+          "price": "$$$",
+          "distance": "0.2 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "name": "Vancouver",
+      "country": "Canada",
+      "stadium": "BC Place",
+      "stadium_image": "stadium_bc.png",
+      "latitude": 49.2768,
+      "longitude": -123.1117,
+      "hotels": [
+        {
+          "id": "h16",
+          "name": "Fairmont Pacific Rim",
+          "image": "hotel_fairmont.png",
+          "price": "$$$",
+          "distance": "0.5 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c13",
+      "name": "Mexico City",
+      "country": "Mexico",
+      "stadium": "Estadio Azteca",
+      "stadium_image": "stadium_azteca.png",
+      "latitude": 19.3029,
+      "longitude": -99.1505,
+      "hotels": [
+        {
+          "id": "h17",
+          "name": "Camino Real Pedregal",
+          "image": "hotel_camino.png",
+          "price": "$$",
+          "distance": "2.0 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c14",
+      "name": "Monterrey",
+      "country": "Mexico",
+      "stadium": "Estadio BBVA",
+      "stadium_image": "stadium_bbva.png",
+      "latitude": 25.6651,
+      "longitude": -100.2861,
+      "hotels": [
+        {
+          "id": "h18",
+          "name": "Fiesta Americana",
+          "image": "hotel_fiesta.png",
+          "price": "$$",
+          "distance": "3.0 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    },
+    {
+      "id": "c15",
+      "name": "Guadalajara",
+      "country": "Mexico",
+      "stadium": "Estadio Akron",
+      "stadium_image": "stadium_akron.png",
+      "latitude": 20.6827,
+      "longitude": -103.4632,
+      "hotels": [
+        {
+          "id": "h19",
+          "name": "Westin Guadalajara",
+          "image": "hotel_westin.png",
+          "price": "$$$",
+          "distance": "5.0 miles",
+          "link": "https://www.booking.com",
+          "sold_out": false
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "title": "World Cup 2026 Kickoff: Everything You Need to Know",
+      "image": "news_kickoff.png",
+      "date": "2026-02-01"
+    },
+    {
+      "id": "n2",
+      "title": "Tickets Go On Sale Next Month - Best Strategies",
+      "image": "news_tickets.png",
+      "date": "2026-02-05"
+    },
+    {
+      "id": "n3",
+      "title": "Top 5 Cities for Budget Travelers",
+      "image": "news_budget.png",
+      "date": "2026-02-07"
+    }
+  ],
+  "currency_rates": {
+    "USD": 1,
+    "CAD": 1.36,
+    "MXN": 17.15,
+    "EUR": 0.92,
+    "GBP": 0.79,
+    "BRL": 4.97,
+    "ARS": 850
+  },
+  "visa_rules": [
+    {
+      "nationality": "United Kingdom",
+      "usa": false,
+      "canada": false,
+      "mexico": false
+    },
+    {
+      "nationality": "Germany",
+      "usa": false,
+      "canada": false,
+      "mexico": false
+    },
+    { "nationality": "France", "usa": false, "canada": false, "mexico": false },
+    { "nationality": "Japan", "usa": false, "canada": false, "mexico": false },
+    {
+      "nationality": "Australia",
+      "usa": false,
+      "canada": false,
+      "mexico": false
+    },
+    { "nationality": "Brazil", "usa": true, "canada": true, "mexico": false },
+    { "nationality": "India", "usa": true, "canada": true, "mexico": true },
+    { "nationality": "China", "usa": true, "canada": true, "mexico": true },
+    { "nationality": "Nigeria", "usa": true, "canada": true, "mexico": true },
+    {
+      "nationality": "Argentina",
+      "usa": false,
+      "canada": false,
+      "mexico": false
+    },
+    { "nationality": "Mexico", "usa": true, "canada": false, "mexico": false },
+    { "nationality": "Canada", "usa": false, "canada": false, "mexico": false },
+    { "nationality": "USA", "usa": false, "canada": false, "mexico": false }
+  ]
+}
