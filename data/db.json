@@ -15,7 +15,7 @@
     "city": "Mexico City",
     "round": "Group Stage",
     "group": "Group A",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m2",
@@ -28,7 +28,7 @@
     "city": "Guadalajara",
     "round": "Group Stage",
     "group": "Group A",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m3",
@@ -41,7 +41,7 @@
     "city": "Toronto",
     "round": "Group Stage",
     "group": "Group B",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m4",
@@ -54,7 +54,7 @@
     "city": "Los Angeles",
     "round": "Group Stage",
     "group": "Group D",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m5",
@@ -67,7 +67,7 @@
     "city": "San Francisco",
     "round": "Group Stage",
     "group": "Group B",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m6",
@@ -80,7 +80,7 @@
     "city": "New Jersey",
     "round": "Group Stage",
     "group": "Group C",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m7",
@@ -93,7 +93,7 @@
     "city": "Boston",
     "round": "Group Stage",
     "group": "Group C",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m8",
@@ -106,7 +106,7 @@
     "city": "Vancouver",
     "round": "Group Stage",
     "group": "Group D",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m9",
@@ -119,7 +119,7 @@
     "city": "Houston",
     "round": "Group Stage",
     "group": "Group E",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m10",
@@ -132,7 +132,7 @@
     "city": "Dallas",
     "round": "Group Stage",
     "group": "Group F",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m11",
@@ -145,7 +145,7 @@
     "city": "Philadelphia",
     "round": "Group Stage",
     "group": "Group E",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m12",
@@ -158,7 +158,7 @@
     "city": "Monterrey",
     "round": "Group Stage",
     "group": "Group F",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m13",
@@ -171,7 +171,7 @@
     "city": "Atlanta",
     "round": "Group Stage",
     "group": "Group H",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m14",
@@ -184,7 +184,7 @@
     "city": "Seattle",
     "round": "Group Stage",
     "group": "Group G",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m15",
@@ -197,7 +197,7 @@
     "city": "Miami",
     "round": "Group Stage",
     "group": "Group H",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m16",
@@ -210,7 +210,7 @@
     "city": "Los Angeles",
     "round": "Group Stage",
     "group": "Group G",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m17",
@@ -223,7 +223,7 @@
     "city": "Houston",
     "round": "Group Stage",
     "group": "Group K",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m18",
@@ -236,7 +236,7 @@
     "city": "New Jersey",
     "round": "Group Stage",
     "group": "Group I",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m19",
@@ -249,7 +249,7 @@
     "city": "Boston",
     "round": "Group Stage",
     "group": "Group I",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m20",
@@ -262,7 +262,7 @@
     "city": "Kansas City",
     "round": "Group Stage",
     "group": "Group J",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m21",
@@ -275,7 +275,7 @@
     "city": "San Francisco",
     "round": "Group Stage",
     "group": "Group J",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m22",
@@ -288,7 +288,7 @@
     "city": "Dallas",
     "round": "Group Stage",
     "group": "Group L",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m23",
@@ -301,7 +301,7 @@
     "city": "Toronto",
     "round": "Group Stage",
     "group": "Group L",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m24",
@@ -314,7 +314,7 @@
     "city": "Mexico City",
     "round": "Group Stage",
     "group": "Group K",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m25",
@@ -327,7 +327,7 @@
     "city": "Atlanta",
     "round": "Group Stage",
     "group": "Group A",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m26",
@@ -340,7 +340,7 @@
     "city": "Los Angeles",
     "round": "Group Stage",
     "group": "Group B",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m27",
@@ -353,7 +353,7 @@
     "city": "Vancouver",
     "round": "Group Stage",
     "group": "Group B",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m28",
@@ -366,7 +366,7 @@
     "city": "Guadalajara",
     "round": "Group Stage",
     "group": "Group A",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m29",
@@ -379,7 +379,7 @@
     "city": "Seattle",
     "round": "Group Stage",
     "group": "Group D",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m30",
@@ -392,7 +392,7 @@
     "city": "Boston",
     "round": "Group Stage",
     "group": "Group C",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m31",
@@ -405,7 +405,7 @@
     "city": "Philadelphia",
     "round": "Group Stage",
     "group": "Group C",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m32",
@@ -418,7 +418,7 @@
     "city": "San Francisco",
     "round": "Group Stage",
     "group": "Group D",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m33",
@@ -431,7 +431,7 @@
     "city": "Houston",
     "round": "Group Stage",
     "group": "Group F",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m34",
@@ -444,7 +444,7 @@
     "city": "Toronto",
     "round": "Group Stage",
     "group": "Group E",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m35",
@@ -457,7 +457,7 @@
     "city": "Kansas City",
     "round": "Group Stage",
     "group": "Group E",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m36",
@@ -470,7 +470,7 @@
     "city": "Monterrey",
     "round": "Group Stage",
     "group": "Group F",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m37",
@@ -483,7 +483,7 @@
     "city": "Atlanta",
     "round": "Group Stage",
     "group": "Group H",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m38",
@@ -496,7 +496,7 @@
     "city": "Los Angeles",
     "round": "Group Stage",
     "group": "Group G",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m39",
@@ -509,7 +509,7 @@
     "city": "Miami",
     "round": "Group Stage",
     "group": "Group H",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m40",
@@ -522,7 +522,7 @@
     "city": "Vancouver",
     "round": "Group Stage",
     "group": "Group G",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m41",
@@ -535,7 +535,7 @@
     "city": "Dallas",
     "round": "Group Stage",
     "group": "Group J",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m41b",
@@ -548,7 +548,7 @@
     "city": "San Francisco",
     "round": "Group Stage",
     "group": "Group J",
-    "score": "0/0"
+    "score": null
 },
   {
     "id": "m42",
@@ -561,7 +561,7 @@
     "city": "Philadelphia",
     "round": "Group Stage",
     "group": "Group I",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m43",
@@ -574,7 +574,7 @@
     "city": "Toronto",
     "round": "Group Stage",
     "group": "Group I",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m44",
@@ -587,7 +587,7 @@
     "city": "Houston",
     "round": "Group Stage",
     "group": "Group K",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m45",
@@ -600,7 +600,7 @@
     "city": "Boston",
     "round": "Group Stage",
     "group": "Group L",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m46",
@@ -613,7 +613,7 @@
     "city": "Monterrey",
     "round": "Group Stage",
     "group": "Group L",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m47",
@@ -626,7 +626,7 @@
     "city": "Guadalajara",
     "round": "Group Stage",
     "group": "Group K",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m48",
@@ -639,7 +639,7 @@
     "city": "Monterrey",
     "round": "Group Stage",
     "group": "Group A",
-    "score": "0/0"
+    "score": null
   },
 
   {
@@ -653,7 +653,7 @@
     "city": "Miami",
     "round": "Group Stage",
     "group": "Group K",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m50",
@@ -666,7 +666,7 @@
     "city": "Atlanta",
     "round": "Group Stage",
     "group": "Group K",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m51",
@@ -679,7 +679,7 @@
     "city": "Mexico City",
     "round": "Group Stage",
     "group": "Group A",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m52",
@@ -692,7 +692,7 @@
     "city": "Monterrey",
     "round": "Group Stage",
     "group": "Group A",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m53",
@@ -705,7 +705,7 @@
     "city": "Vancouver",
     "round": "Group Stage",
     "group": "Group B",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m54",
@@ -718,7 +718,7 @@
     "city": "Seattle",
     "round": "Group Stage",
     "group": "Group B",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m55",
@@ -731,7 +731,7 @@
     "city": "New Jersey",
     "round": "Group Stage",
     "group": "Group E",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m56",
@@ -744,7 +744,7 @@
     "city": "Philadelphia",
     "round": "Group Stage",
     "group": "Group E",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m57",
@@ -757,7 +757,7 @@
     "city": "Kansas City",
     "round": "Group Stage",
     "group": "Group F",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m58",
@@ -770,7 +770,7 @@
     "city": "Dallas",
     "round": "Group Stage",
     "group": "Group F",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m59",
@@ -783,7 +783,7 @@
     "city": "Los Angeles",
     "round": "Group Stage",
     "group": "Group D",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m60",
@@ -796,7 +796,7 @@
     "city": "San Francisco",
     "round": "Group Stage",
     "group": "Group D",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m61",
@@ -809,7 +809,7 @@
     "city": "Boston",
     "round": "Group Stage",
     "group": "Group C",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m62",
@@ -822,7 +822,7 @@
     "city": "Toronto",
     "round": "Group Stage",
     "group": "Group C",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m63",
@@ -835,7 +835,7 @@
     "city": "Mexico City",
     "round": "Group Stage",
     "group": "Group G",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m64",
@@ -848,7 +848,7 @@
     "city": "Guadalajara",
     "round": "Group Stage",
     "group": "Group G",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m65",
@@ -861,7 +861,7 @@
     "city": "Houston",
     "round": "Group Stage",
     "group": "Group I",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m66",
@@ -874,7 +874,7 @@
     "city": "Monterrey",
     "round": "Group Stage",
     "group": "Group I",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m67",
@@ -887,7 +887,7 @@
     "city": "New Jersey",
     "round": "Group Stage",
     "group": "Group H",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m68",
@@ -900,7 +900,7 @@
     "city": "Philadelphia",
     "round": "Group Stage",
     "group": "Group H",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m69",
@@ -913,7 +913,7 @@
     "city": "Dallas",
     "round": "Group Stage",
     "group": "Group J",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m70",
@@ -926,7 +926,7 @@
     "city": "Kansas City",
     "round": "Group Stage",
     "group": "Group J",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m71",
@@ -939,7 +939,7 @@
     "city": "Atlanta",
     "round": "Group Stage",
     "group": "Group L",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m72",
@@ -952,7 +952,7 @@
     "city": "Miami",
     "round": "Group Stage",
     "group": "Group L",
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m73",
@@ -965,7 +965,7 @@
     "city": "Los Angeles",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m74",
@@ -978,7 +978,7 @@
     "city": "Boston",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m75",
@@ -991,7 +991,7 @@
     "city": "Monterrey",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m76",
@@ -1004,7 +1004,7 @@
     "city": "Houston",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m77",
@@ -1017,7 +1017,7 @@
     "city": "New Jersey",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m78",
@@ -1030,7 +1030,7 @@
     "city": "Dallas",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m79",
@@ -1043,7 +1043,7 @@
     "city": "Seattle",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m80",
@@ -1056,7 +1056,7 @@
     "city": "Mexico City",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m81",
@@ -1069,7 +1069,7 @@
     "city": "Miami",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m82",
@@ -1082,7 +1082,7 @@
     "city": "Toronto",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m83",
@@ -1095,7 +1095,7 @@
     "city": "Atlanta",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m84",
@@ -1108,7 +1108,7 @@
     "city": "Vancouver",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m85",
@@ -1121,7 +1121,7 @@
     "city": "San Francisco",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m86",
@@ -1134,7 +1134,7 @@
     "city": "Guadalajara",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m87",
@@ -1147,7 +1147,7 @@
     "city": "Kansas City",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m88",
@@ -1160,7 +1160,7 @@
     "city": "San Francisco",
     "round": "Rd of 32",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m89",
@@ -1173,7 +1173,7 @@
     "city": "Philadelphia",
     "round": "Rd of 16",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m90",
@@ -1186,7 +1186,7 @@
     "city": "Houston",
     "round": "Rd of 16",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m91",
@@ -1199,7 +1199,7 @@
     "city": "New Jersey",
     "round": "Rd of 16",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m92",
@@ -1212,7 +1212,7 @@
     "city": "Mexico City",
     "round": "Rd of 16",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m93",
@@ -1225,7 +1225,7 @@
     "city": "Dallas",
     "round": "Rd of 16",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m94",
@@ -1238,7 +1238,7 @@
     "city": "Seattle",
     "round": "Rd of 16",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m95",
@@ -1251,7 +1251,7 @@
     "city": "Atlanta",
     "round": "Rd of 16",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m96",
@@ -1264,7 +1264,7 @@
     "city": "Vancouver",
     "round": "Rd of 16",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m97",
@@ -1277,7 +1277,7 @@
     "city": "Boston",
     "round": "Quarter-finals",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m98",
@@ -1290,7 +1290,7 @@
     "city": "Los Angeles",
     "round": "Quarter-finals",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m99",
@@ -1303,7 +1303,7 @@
     "city": "Miami",
     "round": "Quarter-finals",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m100",
@@ -1316,7 +1316,7 @@
     "city": "Kansas City",
     "round": "Quarter-finals",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m101",
@@ -1329,7 +1329,7 @@
     "city": "Dallas",
     "round": "Semi-finals",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m102",
@@ -1342,7 +1342,7 @@
     "city": "Atlanta",
     "round": "Semi-finals",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m103",
@@ -1355,7 +1355,7 @@
     "city": "Miami",
     "round": "Third place play-off",
     "group": null,
-    "score": "0/0"
+    "score": null
   },
   {
     "id": "m104",
@@ -1368,7 +1368,7 @@
     "city": "New Jersey",
     "round": "Final",
     "group": null,
-    "score": "0/0"
+    "score": null
   }
 ],
   "cities": [
